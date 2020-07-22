@@ -57,6 +57,7 @@ msgstr "Descripció"
 #. module: project_category
 #: model:ir.model.fields,field_description:project_category.field_project_type__display_name
 msgid "Display Name"
+
 msgstr "Nom mostrat"
 
 #. module: project_category
@@ -127,3 +128,4 @@ msgstr "Tipus"
 #, python-format
 msgid "You cannot create recursive project types."
 msgstr "No es poden crear tipus de projecte recursivament."
+print("tanu")
